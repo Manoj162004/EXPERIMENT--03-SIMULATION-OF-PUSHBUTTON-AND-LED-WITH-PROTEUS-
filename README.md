@@ -117,9 +117,12 @@ int main(void)
 
 ## Output screen shots of proteus  :
 
-LED OFF:
+### LED OFF:
+
 ![Screenshot (285)](https://user-images.githubusercontent.com/120365042/235192965-6b781327-99dc-44a9-9a1f-a38f0fe855b8.png)
-LED ON:
+
+### LED ON:
+
 ![Screenshot (283)](https://user-images.githubusercontent.com/120365042/235193113-b3a2b581-20d5-48dd-a66e-664e1701ac5f.png)
 
 
